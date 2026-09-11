@@ -1,0 +1,5 @@
+node_modules/
+audios/*.mp3
+audios/*.wav
+.env
+*.log
